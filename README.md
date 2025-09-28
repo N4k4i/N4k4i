@@ -7,14 +7,14 @@
 
 ---
 
-##👥 Where you can find me!
-📧 Email: bebelanakai@gmail.com
-🔗 Linkedin: https://www.linkedin.com/in/isa-nakai-8398152b2
+👥 Where you can find me!
+-📧 Email: bebelanakai@gmail.com
+-🔗 Linkedin: https://www.linkedin.com/in/isa-nakai-8398152b2
 
 ---
 
-##⏰ What am im searching for?
-For now, Im not working and neither looking for a job, but in a year I'll be searching for this kind of experience
+⏰ What am im searching for?
+-For now, Im not working and neither looking for a job, but in a year I'll be searching for this kind of experience
 
 ---
 
