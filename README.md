@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋 Hey! Im Isabela!
 
-<!--
-**N4k4i/N4k4i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+➡️ Im a Computer Science student at IMT!
+➡️ Im interested in: Web Development, Cybersecurity, and Software Engineering (since im still new on the field this could get bigger)
+➡️ Currently learning: Front-end development and git
+➡️ What I want to achieve: get as much learning opportunities as possible while also gaining experience of the market
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##👥 Where you can find me!
+📧 Email: bebelanakai@gmail.com
+🔗 Linkedin: https://www.linkedin.com/in/isa-nakai-8398152b2
+
+---
+
+##⏰ What am im searching for?
+For now, Im not working and neither looking for a job, but in a year I'll be searching for this kind of experience
+
+---
+
+‼️ Always open for opportuinities to learn and upgrade my skills!
