@@ -12,7 +12,7 @@
 
 ### 👥 Where you can find me!
 
-<img src="./icons/Gmail-Dark.svg" width="48">: bebelanakai@gmail.com
+📧 Email: bebelanakai@gmail.com
 
 🔗 Linkedin: https://www.linkedin.com/in/isa-nakai-8398152b2
 
