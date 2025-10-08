@@ -36,5 +36,6 @@ For now, Im not working and neither looking for a job, but in a year I'll be sea
 ---
 
 ### Languages ⭐
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n4kai&langs_count=8)
-
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=n4kai&layout=compact&langs_count=8&card_width=320" />
+</a>
