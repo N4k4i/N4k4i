@@ -30,5 +30,13 @@ For now, Im not working and neither looking for a job, but in a year I'll be sea
 ### My stats ⭐
 
 <div align="center">
-<img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=N4k4i&show_icons=true&theme=transparent"/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n4kai&layout=compact)
+<img alt="N4kai's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=N4k4i&show_icons=true&theme=transparent"/>
+</div>
+
+---
+
+### Languages ⭐
+<div align="center">
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N4kai&layout=compact&&langs_count=8"/>
+</div>
+
