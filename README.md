@@ -37,6 +37,8 @@ For now, Im not working and neither looking for a job, but in a year I'll be sea
 
 ### Languages ⭐
 <div align="center">
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n4kai&langs_count=8"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N4kai&langs_count=8"/>
 </div>
 
+### Profile views counter 👁️‍🗨️
+[![Maksym Rudnyi profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/n4kai)
