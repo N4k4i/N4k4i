@@ -27,6 +27,9 @@ For now, Im not working and neither looking for a job, but in a year I'll be sea
 ‼️ Always open for opportuinities to learn and upgrade my skills!
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=n4k4i&show_icons=true&theme=radical)
+### My stats ⭐
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n4k4i&layout=compact)
+<div align="center">
+<img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=N4k4i&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N4kai&layout=compact&&langs_count=8"/>
+</div>
