@@ -10,7 +10,7 @@
 
 ---
 
-👥 Where you can find me!
+###👥 Where you can find me!
 
 📧 Email: bebelanakai@gmail.com
 
@@ -18,7 +18,7 @@
 
 ---
 
-⏰ What am im searching for?
+###⏰ What am im searching for?
 
 For now, Im not working and neither looking for a job, but in a year I'll be searching for this kind of experience
 
@@ -31,5 +31,5 @@ For now, Im not working and neither looking for a job, but in a year I'll be sea
 
 <div align="center">
 <img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=N4k4i&show_icons=true&theme=transparent"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N4kai&layout=compact&&langs_count=8"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n4kai&layout=compact&&langs_count=8"/>
 </div>
