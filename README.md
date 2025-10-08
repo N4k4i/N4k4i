@@ -31,4 +31,4 @@ For now, Im not working and neither looking for a job, but in a year I'll be sea
 
 <div align="center">
 <img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=N4k4i&show_icons=true&theme=transparent"/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n4kai&layout=compact)
