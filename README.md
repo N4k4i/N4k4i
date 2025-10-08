@@ -28,7 +28,7 @@ For now, Im not working and neither looking for a job, but in a year I'll be sea
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and technologies
 
 <img 
     align="left" 
