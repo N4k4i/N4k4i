@@ -27,5 +27,6 @@ For now, Im not working and neither looking for a job, but in a year I'll be sea
 ‼️ Always open for opportuinities to learn and upgrade my skills!
 
 ---
-#Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=n4k4i&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n4k4i&layout=compact)
