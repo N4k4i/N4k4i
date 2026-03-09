@@ -81,19 +81,3 @@ For now, Im not working and neither looking for a job, but in a year I'll be sea
 
 <br/>
 <br/>
-
----
-### My stats ⭐
-
-<div align="center">
-<img alt="N4kai's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=N4k4i&show_icons=true&theme=transparent"/>
-</div>
-
----
-
-### Languages ⭐
-<div align="center">
-<a href="https://github.com/n4kai/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=n4k4i&layout=compact&langs_count=8&card_width=320" />
-</a>
-</div>
